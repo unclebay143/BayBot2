@@ -1,0 +1,21 @@
+
+
+
+Name: Kolawole Gabby
+Message: I didn't meet you at home, let's meet at the pool later in the day
+Time: Thu Apr 30 10:01:43 2020
+
+
+Name: Winner
+Message: Mom sent me to give you a new module..call me
+Time: Thu Apr 30 10:03:11 2020
+
+
+Name: BAY-BOT 
+Message: MOM ask of you. I said you weren't around
+Time: Thu Apr 30 10:13:22 2020
+
+
+Name: BAY-BOT
+Message: DAD took your number, did you received a call?
+Time: Thu Apr 30 10:21:56 2020
