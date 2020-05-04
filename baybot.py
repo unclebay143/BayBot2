@@ -10,7 +10,9 @@ import MySQLdb
 developer = "Ayodele Samuel Adebayo"
 developernickname = "UncleBigBay"
 bot_name = "BAY-BOT"
-print(developer + "\n")
+print('')
+print("Project By: " + developer)
+print("Project Name:" + bot_name + "\n")
 confirm = " "
 name = " "
 
