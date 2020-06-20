@@ -1,8 +1,7 @@
 # Programmer/developer:: Ayodele Samuel Adebayo
-# ND1 semester1
 # A program that interacts with the users
-# d im user_talk,username,usermessage,confirm,baytalk
-"""converting BASIC to PYTHON"""
+"""Version 2 of Baybot"""
+
 import sys
 import time
 import datetime
@@ -12,7 +11,7 @@ developernickname = "UncleBigBay"
 bot_name = "BAY-BOT"
 print('')
 print("Project By: " + developer)
-print("Project Name:" + bot_name + "\n")
+print("\nProject Name:" + bot_name + "\n")
 confirm = " "
 name = " "
 
@@ -276,6 +275,6 @@ def nameattack():
     else:
         checkboss(name)
 
-
 # program start
-nameattack()
+if __name__ == '__main__':
+    nameattack()

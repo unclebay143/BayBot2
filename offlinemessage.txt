@@ -19,3 +19,18 @@ Time: Thu Apr 30 10:13:22 2020
 Name: BAY-BOT
 Message: DAD took your number, did you received a call?
 Time: Thu Apr 30 10:21:56 2020
+
+
+Name: samuel
+Message: I will come back home soon
+Time: Wed May 27 12:16:10 2020
+
+
+Name: Test
+Message: If you're seeing this then the test has a positive result
+Time: Wed May 27 12:17:11 2020
+
+
+Name: Test
+Message: If you're seeing this then the test has a positive result
+Time: Wed May 27 12:19:39 2020
